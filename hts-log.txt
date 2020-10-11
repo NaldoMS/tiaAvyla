@@ -1,0 +1,32 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 15 Sep 2020 15:42:18 at https://kidsdiscoveryworld.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://kidsdiscoveryworld.com/ -O1 "C:\Meus Sites\Site Creche" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:42:47	Error: 	"Not Found" (404) at link https://kidsdiscoveryworld.com/images/caret.png (from https://kidsdiscoveryworld.com/main-style.css)
+15:43:04	Error: 	"Not Found" (404) at link https://kidsdiscoveryworld.com/generator/index.html (from https://kidsdiscoveryworld.com/generator/default.php?page=pages&view=edit&doc=index.html&return=%2F)
+15:43:04	Error: 	"Not Found" (404) at link https://kidsdiscoveryworld.com/generator/about.html (from https://kidsdiscoveryworld.com/generator/default.php?page=pages&view=edit&doc=about.html&return=%2Fabout.html)
+15:43:04	Error: 	"Not Found" (404) at link https://kidsdiscoveryworld.com/generator/staff.html (from https://kidsdiscoveryworld.com/generator/default.php?page=pages&view=edit&doc=staff.html&return=%2Fstaff.html)
+15:43:04	Error: 	"Not Found" (404) at link https://kidsdiscoveryworld.com/generator/testimonials.html (from https://kidsdiscoveryworld.com/generator/default.php?page=pages&view=edit&doc=testimonials.html&return=%2Ftestimonials.html)
+15:43:04	Error: 	"Not Found" (404) at link https://kidsdiscoveryworld.com/generator/programs.html (from https://kidsdiscoveryworld.com/generator/default.php?page=pages&view=edit&doc=programs.html&return=%2Fprograms.html)
+15:43:04	Error: 	"Not Found" (404) at link https://kidsdiscoveryworld.com/generator/curriculum.html (from https://kidsdiscoveryworld.com/generator/default.php?page=pages&view=edit&doc=curriculum.html&return=%2Fcurriculum.html)
+15:43:04	Error: 	"Not Found" (404) at link https://kidsdiscoveryworld.com/generator/for-parents.html (from https://kidsdiscoveryworld.com/generator/default.php?page=pages&view=edit&doc=for-parents.html&return=%2Ffor-parents.html)
+15:43:04	Error: 	"Not Found" (404) at link https://kidsdiscoveryworld.com/generator/enrollment.html (from https://kidsdiscoveryworld.com/generator/default.php?page=pages&view=edit&doc=enrollment.html&return=%2Fenrollment.html)
+15:43:04	Error: 	"Not Found" (404) at link https://kidsdiscoveryworld.com/image-gallery/css/images/animated-overlay.gif (from https://kidsdiscoveryworld.com/image-gallery/css/jquery-ui.css)
+15:43:04	Error: 	"Not Found" (404) at link https://kidsdiscoveryworld.com/image-gallery/css/images/ui-bg_flat_75_ffffff_40x100.png (from https://kidsdiscoveryworld.com/image-gallery/css/jquery-ui.css)
+15:43:04	Error: 	"Not Found" (404) at link https://kidsdiscoveryworld.com/image-gallery/css/images/ui-bg_glass_65_ffffff_1x400.png (from https://kidsdiscoveryworld.com/image-gallery/css/jquery-ui.css)
+15:43:04	Error: 	"Not Found" (404) at link https://kidsdiscoveryworld.com/image-gallery/css/images/ui-bg_glass_55_fbf9ee_1x400.png (from https://kidsdiscoveryworld.com/image-gallery/css/jquery-ui.css)
+15:43:04	Error: 	"Not Found" (404) at link https://kidsdiscoveryworld.com/image-gallery/css/images/ui-bg_glass_95_fef1ec_1x400.png (from https://kidsdiscoveryworld.com/image-gallery/css/jquery-ui.css)
+15:43:04	Error: 	"Not Found" (404) at link https://kidsdiscoveryworld.com/image-gallery/css/images/ui-icons_222222_256x240.png (from https://kidsdiscoveryworld.com/image-gallery/css/jquery-ui.css)
+15:43:04	Error: 	"Not Found" (404) at link https://kidsdiscoveryworld.com/image-gallery/css/images/ui-icons_888888_256x240.png (from https://kidsdiscoveryworld.com/image-gallery/css/jquery-ui.css)
+15:43:05	Error: 	"Not Found" (404) at link https://kidsdiscoveryworld.com/image-gallery/css/images/ui-icons_454545_256x240.png (from https://kidsdiscoveryworld.com/image-gallery/css/jquery-ui.css)
+15:43:05	Error: 	"Not Found" (404) at link https://kidsdiscoveryworld.com/image-gallery/css/images/ui-icons_2e83ff_256x240.png (from https://kidsdiscoveryworld.com/image-gallery/css/jquery-ui.css)
+15:43:05	Error: 	"Not Found" (404) at link https://kidsdiscoveryworld.com/image-gallery/css/images/ui-icons_cd0a0a_256x240.png (from https://kidsdiscoveryworld.com/image-gallery/css/jquery-ui.css)
+15:43:05	Error: 	"Not Found" (404) at link https://kidsdiscoveryworld.com/image-gallery/css/images/ui-bg_flat_0_aaaaaa_40x100.png (from https://kidsdiscoveryworld.com/image-gallery/css/jquery-ui.css)
+15:43:08	Error: 	"Not Found" (404) at link https://kidsdiscoveryworld.com/generator/contact.html (from https://kidsdiscoveryworld.com/generator/default.php?page=pages&view=edit&doc=contact.html&return=%2Fcontact.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 50 seconds : 175 links scanned, 153 files written (9319245 bytes overall) [9301420 bytes received at 186028 bytes/sec], 535047 bytes transferred using HTTP compression in 54 files, ratio 40%, 13.4 requests per connection
+(21 errors, 0 warnings, 0 messages)
